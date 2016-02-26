@@ -1567,7 +1567,6 @@ border-bottom-left-radius: inherit;
 }
 
 #index li.thermostat div.controls {
-  float: right;
   max-width: 100%;
   margin: 0;
   overflow: hidden;
